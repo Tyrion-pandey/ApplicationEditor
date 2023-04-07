@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.heading{
+  color: rgb(80, 0, 155);
+}
